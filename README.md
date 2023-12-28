@@ -23,7 +23,7 @@ We thank all the great [contributors](#contributors) very much.
 3. [arXiv 2019.10] **Improving Question Generation With to the Point Context** [[pdf](https://arxiv.org/pdf/1910.06036.pdf)]
 
 ## 3. Seq2Seq-based Papers
-1. [arXiv 2017.04] **Neural Models for Key Phrase Detection and Question Generation** [[pdf](https://arxiv.org/abs/1706.04560)]
+1. [arXiv 2018.04] **Neural Models for Key Phrase Detection and Question Generation** [[pdf](https://arxiv.org/pdf/1706.04560.pdf)]
 
 
 ## Contributors
