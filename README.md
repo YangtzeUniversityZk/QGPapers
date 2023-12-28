@@ -28,16 +28,15 @@ We thank all the great [contributors](#contributors) very much.
 11. [arXiv 2020.05] **On the Importance of Diversity in Question Generation for QA** [[pdf](https://aclanthology.org/2020.acl-main.500.pdf)]
 12. [arXiv 2020.05] **Review-based Question Generation with Adaptive Instance Transfer and Augmentation** [[pdf](https://aclanthology.org/2020.acl-main.26.pdf)]
 13. [arXiv 2020.05] **Syn-QG: Syntactic and Shallow Semantic Rules for Question Generation** [[pdf](https://aclanthology.org/2020.acl-main.69v2.pdf)]
+14. [arXiv 2020.05] **Unsupervised FAQ Retrieval with Question Generation and BERT** [[pdf](https://aclanthology.org/2020.acl-main.74.pdf)]
+15. [arXiv 2020.05] **Unsupervised FAQ Retrieval with Question Generation and BERT** [[pdf](https://aclanthology.org/2020.acl-main.74.pdf)]
    
 
 ## 2. EMNLP-based Papers
-1. [arXiv 2017.04] **Neural Question Generation from Text: A Preliminary Study** [[pdf](https://arxiv.org/pdf/1704.01792.pdf)] [[code](https://github.com/magic282/NQG)]
-2. [arXiv 2017.11] **Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension** [[pdf](https://arxiv.org/pdf/1706.09789.pdf)] [[code](https://github.com/davidgolub/QuestionGeneration)]
-3. [arXiv 2019.10] **Improving Question Generation With to the Point Context** [[pdf](https://arxiv.org/pdf/1910.06036.pdf)]
+1. [arXiv 2021.11] **Iterative GNN-based Decoder for Question Generation** [[pdf](https://aclanthology.org/2021.emnlp-main.201.pdf)]
 
 ## 3. NAACL-based Papers
-1. [arXiv 2018.04] **Neural Models for Key Phrase Detection and Question Generation** [[pdf](https://arxiv.org/pdf/1706.04560.pdf)]
-2. [arXiv 2017.01] **Pointer Networks** [[pdf](https://arxiv.org/pdf/1506.03134.pdf)]
+1. [arXiv 2018.04] **Ask what’s missing and what’s useful: Improving Clarification Question Generation using Global Knowledge** [[pdf](https://aclanthology.org/2021.naacl-main.340.pdf)]
 
 
 ## Contributors
