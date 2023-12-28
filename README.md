@@ -18,7 +18,7 @@ We thank all the great [contributors](#contributors) very much.
 
 ## 2. Attention-based Papers
 1. [arXiv 2017.04] **Neural Question Generation from Text: A Preliminary Study** [[pdf](https://arxiv.org/pdf/1704.01792.pdf)] [[code](https://github.com/magic282/NQG)]
-2. [arXiv 2017.04] **Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension** [[pdf](https://arxiv.org/abs/1706.09789)] [[code](https://github.com/davidgolub/QuestionGeneration)]
+2. [arXiv 2017.11] **Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension** [[pdf](https://arxiv.org/pdf/1706.09789.pdf)] [[code](https://github.com/davidgolub/QuestionGeneration)]
 
 
 ## Contributors
