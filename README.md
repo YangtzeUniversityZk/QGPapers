@@ -17,7 +17,7 @@ We thank all the great [contributors](#contributors) very much.
 1. [arXiv 2023.8] **Learning to Ask: Neural Question Generation for Reading Comprehension** [[pdf](https://arxiv.org/pdf/1705.00106.pdf)] [[code](https://github.com/xinyadu/nqg)]
 
 ## 2. LSTM-based Papers
-1. [arXiv 2023.8] **Neural Question Generation from Text: A Preliminary Study** [[pdf](https://arxiv.org/abs/1704.01792)] [[code](https://github.com/magic282/NQG)]
+1. [arXiv 2017.4] **Neural Question Generation from Text: A Preliminary Study** [[pdf](https://arxiv.org/pdf/1704.01792.pdf)] [[code](https://github.com/magic282/NQG)]
 
 
 ## Contributors
