@@ -24,6 +24,7 @@ We thank all the great [contributors](#contributors) very much.
 
 ## 3. Seq2Seq-based Papers
 1. [arXiv 2018.04] **Neural Models for Key Phrase Detection and Question Generation** [[pdf](https://arxiv.org/pdf/1706.04560.pdf)]
+2. [arXiv 2018.04] **Pointer Networks** [[pdf](https://arxiv.org/abs/1506.03134)]
 
 
 ## Contributors
