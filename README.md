@@ -39,7 +39,7 @@ We thank all the great [contributors](#contributors) very much.
 4. [arXiv 2021.11] **Inquisitive Question Generation for High Level Text Comprehension** [[pdf](https://aclanthology.org/2020.emnlp-main.530.pdf)]
 5. [arXiv 2021.11] **Multi-hop Question Generation with Graph Convolutional Network** [[pdf](https://aclanthology.org/2020.findings-emnlp.416.pdf)]
 6. [arXiv 2020.11] **Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space** [[pdf](https://aclanthology.org/2020.emnlp-main.467.pdf)]
-7. [arXiv 2021.11] **Diversify Question Generation with Continuous Content Selectors and Question Type Modeling** [[pdf](https://aclanthology.org/2020.findings-emnlp.194.pdf)]
+7. [arXiv 2020.11] **Diversify Question Generation with Continuous Content Selectors and Question Type Modeling** [[pdf](https://aclanthology.org/2020.findings-emnlp.194.pdf)]
 
 ## 3. NAACL-based Papers
 1. [arXiv 2018.04] **Ask what’s missing and what’s useful: Improving Clarification Question Generation using Global Knowledge** [[pdf](https://aclanthology.org/2021.naacl-main.340.pdf)]
